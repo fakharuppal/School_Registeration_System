@@ -74,6 +74,7 @@ student_str::~student_str(){
 
 void clear_screen(){
     system("clear");
+    system("cls");
 }
 
 void school_logo(){
